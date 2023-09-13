@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "nama": "Calculator",
+      "image": "Calculator.png",
+      "descripsi": "Mesin Penghitung Dengan HTML, CSS & Vanila JS",
+      "link": "https://Tupai568.github.io/calculator"
+    },
+    {
+      "nama": "Game Tikus",
+      "image": "GameTikus.png",
+      "descripsi": "Website Ini Dibuat Dengan HTML, CSS & Vanila JS",
+      "link": "https://Tupai568.github.io"
+    },
+    {
+      "nama": "Ecomers Sederhana",
+      "image": "TokoOnline.png",
+      "descripsi": "Website Ini Dibuat Dengan HTML, CSS & Vanila JS",
+      "link": "https://Tupai568.github.io/TokoOnline"
+    },
+    {
+      "nama": "Game Janken",
+      "image": "janken.png",
+      "descripsi": "Game Janken Dengan Vanila JS",
+      "link": "https://Tupai568.github.io/janken"
+    },
+    {
+      "nama": "Bot Faucet",
+      "image": "faucet.png",
+      "descripsi": "Bot Ini Menggunakan Bahasa Program PHP Nativ, Bot Ini Mampu Claim Faucet Secara Otomatis Tanpa Perlu Keluar Masuk Browser.",
+      "link": "https://Tupai568.github.io/BotFaucet"
+    },
+    {
+      "nama": "Bot Telegram",
+      "image": "tele.png",
+      "descripsi": "Bot ini Menggunakan Bahasa Program Python",
+      "link": "https://Tupai568.github.io/BotTelegram"
+    }
+  ]
+}
